@@ -89,7 +89,10 @@
     <string name="processing">Processing</string>
     <string name="btn_label">The label for the Button</string>
     <string name="btn_label_key">btn_label</string>
-    <string name="btn_label_summary">This will appear over the button. The max length of 5 signs</string>
+    <string name="btn_label_summary">This will appear over the button. The max length of 5 signs
+    </string>
     <string name="set_me">\???</string>
     <string name="bar_title">Big Red Button</string>
+    <string name="action_about">About</string>
+    <string name="about">The One and only Big Red Button to trigger a Jenkins Job \n https://github.com/raven-rwho/big-red-button \n Let me know if you like it: Twitter [pkatberlin]</string>
 </resources>
