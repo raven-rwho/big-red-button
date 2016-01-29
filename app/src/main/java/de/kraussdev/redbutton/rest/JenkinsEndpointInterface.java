@@ -6,7 +6,6 @@ import retrofit.Call;
 import retrofit.http.Header;
 import retrofit.http.POST;
 import retrofit.http.Url;
-import rx.Observable;
 
 /**
  * Created by pk on 21.01.16.

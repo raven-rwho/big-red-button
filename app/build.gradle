@@ -49,10 +49,6 @@ dependencies {
     compile 'com.squareup.retrofit:converter-gson:2.0.0-beta2'
     compile 'com.squareup.okhttp:okhttp:2.4.0'
 
-    // rx
-    compile 'io.reactivex:rxandroid:1.1.0'
-    compile 'io.reactivex:rxjava:1.1.0'
-
     //findbugs
     compile 'com.google.code.findbugs:annotations:2.0.1'
 }
