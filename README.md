@@ -16,6 +16,7 @@ Just add the necessary settings:
 ```
 http://<jenkins-server>/user/<username>/configure
 ```
+These settings are stored in the shared prefs of the app
 
 Libraries
 ===================
