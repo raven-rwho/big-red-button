@@ -15,8 +15,8 @@ Just add the necessary settings:
 > - your jenkins api token - can be found here
 ```
 http://<jenkins-server>/user/<username>/configure
-
 ```
+
 Libraries
 ===================
 -  [Dagger 2](http://google.github.io/dagger/)
