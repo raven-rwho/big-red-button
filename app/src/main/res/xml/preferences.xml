@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="@string/jenkins_url_title"
+                        android:key="@string/jenkins_url"
+                        android:defaultValue="@string/empty"
+                        android:summary="@string/jenkins_url_summary"/>
+    <EditTextPreference android:title="@string/jenkins_job_title"
+                        android:key="@string/jenkins_job"
+                        android:defaultValue="@string/empty"
+                        android:summary="@string/jenkins_job_summary"/>
+    <EditTextPreference android:title="@string/jenkins_username_title"
+                        android:key="@string/jenkins_user_name"
+                        android:defaultValue="@string/empty"
+                        android:summary="@string/jenkins_user_name_summary"/>
+    <EditTextPreference android:title="@string/jenkins_api_token_title"
+                        android:key="@string/jenkins_api_token"
+                        android:defaultValue="@string/empty"
+                        android:summary="@string/jenkins_api_token_summary"/>
+    <EditTextPreference android:title="@string/btn_label"
+                        android:key="@string/btn_label_key"
+                        android:defaultValue="@string/empty"
+                        android:summary="@string/btn_label_summary"/>
+</PreferenceScreen>

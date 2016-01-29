@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Big Red Button</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_no_network">No Network</string>
+    <string name="error_trigger_build">Can\'t trigger build</string>
+    <string name="error_unknown">Error unknown</string>
+    <string name="action_retry">retry</string>
+    <string name="title">Jenkins Trigger</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="jenkins_url">jenkins_url</string>
+    <string name="empty"/>
+    <string name="jenkins_url_summary">Please provide the URL to the Jenkins Job</string>
+    <string name="jenkins_url_title">Jenkins URL</string>
+    <string name="jenkins_user_name">jenkins_user_name</string>
+    <string name="jenkins_user_name_summary">Please provide your Jenkins username</string>
+    <string name="jenkins_api_token_title">Jenkins API Token</string>
+    <string name="jenkins_username_title">Jenkins user name</string>
+    <string name="jenkins_api_token">jenkins_api_token</string>
+    <string name="jenkins_api_token_summary">Please provide your Jenkins API Token - can be found on
+        your profile page
+    </string>
+    <string name="settings">Settings</string>
+    <string name="success">Build was triggerd</string>
+    <string name="empty_url">Please set the needed credentials first!!!</string>
+    <string name="jenkins_job_title">Jenkins Job</string>
+    <string name="jenkins_job">jenkins_job</string>
+    <string name="jenkins_job_summary">Please provide the url for the jenkins job to build</string>
+    <string name="settings_not_set">You need to set the settings before triggering the build
+    </string>
+    <string name="build">/build</string>
+    <string name="processing">Processing</string>
+    <string name="btn_label">The label for the Button</string>
+    <string name="btn_label_key">btn_label</string>
+    <string name="btn_label_summary">This will appear over the button. The max length of 5 signs</string>
+    <string name="set_me">\???</string>
+    <string name="bar_title">Big Red Button</string>
+</resources>
