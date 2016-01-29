@@ -17,19 +17,11 @@ Just add the necessary settings:
 http://<jenkins-server>/user/<username>/configure
 
 ```
-
-----------
-
-#### <i class="icon-folder-open"></i>Libraries
-
--  [Dagger 2][1]
--  [Retrofit][2]
--  [retrolambda][3]
--  [timber][4]
+Libraries
+===================
+-  [Dagger 2](http://google.github.io/dagger/)
+-  [Retrofit](http://square.github.io/retrofit/)
+-  [retrolambda](https://github.com/orfjackal/retrolambda)
+-  [Timber](https://github.com/JakeWharton/timber)
  
-
-  [1]: http://google.github.io/dagger/
-  [2]: http://square.github.io/retrofit/
-  [3]: https://github.com/orfjackal/retrolambda
-  [4]: https://github.com/JakeWharton/timber
 
